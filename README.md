@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roldao-Neto
 - 👀 I’m interested in Games, Programing, Movies and Puzzles
-- 🌱 I’m currently learning Pythpn, C, Java
+- 🌱 I’m currently learning Python, C, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: roldaoo.neto@gmail.com
 
