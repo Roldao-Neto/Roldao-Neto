@@ -5,8 +5,6 @@
 
 ---
 
-<h3>Languages and Tools:</h3>
-
 <p align="center">
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/> 
