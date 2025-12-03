@@ -8,7 +8,7 @@ If I can run a model on the Edge, chances are I am going to do it
 
 My main programming languages are Python, C++, Java, JS, and TS. And my favorite frameworks are TensorFlow, PyTorch, and React.
 
-My favorite project right now is [Open Voice Assistant](https://github.com/Roldao-Neto/Open-Voice-Assistant).
+My favorite personal project right now is [Open Voice Assistant](https://github.com/Roldao-Neto/Open-Voice-Assistant).
 
 **Fun Facts:**
 
