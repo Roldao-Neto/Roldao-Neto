@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Rolds](https://www.linkedin.com/in/roldaoneto/), a computer engineering student in Brazil.
+I'm [Rolds](https://www.linkedin.com/in/roldaoneto/), a computer engineering student from Brazil.
 
 I like to create AI projects and other fun applications.
 
