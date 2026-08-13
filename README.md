@@ -15,4 +15,4 @@ My favorite personal project right now is [Coin Counting with FOMO](https://gith
 - I am a dog person, but I love cats as well.
 - I really don't like coffee, so I might not be a real programmer...
 - I only drink alcohol on special occasions and have never been drunk.
-- Hobbies: Gym, Old TV Series, Anime, Reading (Currently reading: And Then There Were None - Agatha Christie).
+- Hobbies: Gym, Old TV Series, Anime, Reading (Currently reading: The Odyssey).
